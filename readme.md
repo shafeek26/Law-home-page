@@ -16,11 +16,11 @@ In this project i have created a landing page from scratch. And i have learnt a 
 
 ### Time taken complete this project :hourglass_flowing_sand:	:
 
-# 30 minute
+# 1 hr 30 minute
 
 ## here is my project and how it looks :point_down::
 
 ![image](Images/page.png)
 
 ## You can Preview it Live on Below Link :
-**[Live Link !](https://restaurant-home-page-02.netlify.app/)**
+**[Live Link !](https://03-law-home-page.netlify.app/)**
